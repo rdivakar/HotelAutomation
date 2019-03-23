@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Controller">
+      <UniqueIdentifier>{42444409-20b6-4a14-8775-269393bfa0b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Building">
+      <UniqueIdentifier>{0c489786-776f-4cff-966e-c94d91c22375}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utils">
+      <UniqueIdentifier>{38e1205d-5bac-4d8e-ae44-4fe3a4f4590f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Corridor">
+      <UniqueIdentifier>{7aec2bb9-f385-45ce-bd6b-bb3a74300544}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Corridor\Equipments">
+      <UniqueIdentifier>{bab39be2-344d-4a42-bc31-22373c265e32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Controller">
+      <UniqueIdentifier>{53a8b3a5-6192-483f-9cac-fa8b942c8abe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Building">
+      <UniqueIdentifier>{48900f6c-911b-4429-9236-3b6421193519}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utils">
+      <UniqueIdentifier>{46103df6-3df4-4464-b24b-b3c0c261b1e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sensor">
+      <UniqueIdentifier>{d605c4ff-35e6-46bc-899f-88fe3c7a1e84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sensor">
+      <UniqueIdentifier>{f24e78c8-5722-4f58-8ce2-3a10d911d097}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\HotelBuilder">
+      <UniqueIdentifier>{40c71b8c-80cc-4bf9-b8ad-a936a81aac87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Building\Corridor">
+      <UniqueIdentifier>{bd741e0f-8b36-4a29-a183-673a6f785e4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Building\Corridor\Equipments">
+      <UniqueIdentifier>{1ede9b97-2973-4ad4-8a7a-4acd583fb9f4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HomeAutomationDefines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Corridor.h">
+      <Filter>Header Files\Corridor</Filter>
+    </ClInclude>
+    <ClInclude Include="MainCorridor.h">
+      <Filter>Header Files\Corridor</Filter>
+    </ClInclude>
+    <ClInclude Include="SubCorridor.h">
+      <Filter>Header Files\Corridor</Filter>
+    </ClInclude>
+    <ClInclude Include="Equipment.h">
+      <Filter>Header Files\Corridor\Equipments</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerController.h">
+      <Filter>Header Files\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Building.h">
+      <Filter>Header Files\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="Floor.h">
+      <Filter>Header Files\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="Hotel.h">
+      <Filter>Header Files\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Header Files\Corridor\Equipments</Filter>
+    </ClInclude>
+    <ClInclude Include="AirCondition.h">
+      <Filter>Header Files\Corridor\Equipments</Filter>
+    </ClInclude>
+    <ClInclude Include="Sensor.h">
+      <Filter>Header Files\Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="ControllerRule.h">
+      <Filter>Header Files\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="HotelRule.h">
+      <Filter>Header Files\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="SensorOutput.h">
+      <Filter>Header Files\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="HotelBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HotelAutomation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Corridor.cpp">
+      <Filter>Source Files\Building\Corridor</Filter>
+    </ClCompile>
+    <ClCompile Include="SubCorridor.cpp">
+      <Filter>Source Files\Building\Corridor</Filter>
+    </ClCompile>
+    <ClCompile Include="MainCorridor.cpp">
+      <Filter>Source Files\Building\Corridor</Filter>
+    </ClCompile>
+    <ClCompile Include="Equipment.cpp">
+      <Filter>Source Files\Building\Corridor\Equipments</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerController.cpp">
+      <Filter>Source Files\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Building.cpp">
+      <Filter>Source Files\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="Hotel.cpp">
+      <Filter>Source Files\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Floor.cpp">
+      <Filter>Source Files\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="AirCondition.cpp">
+      <Filter>Source Files\Building\Corridor\Equipments</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Source Files\Building\Corridor\Equipments</Filter>
+    </ClCompile>
+    <ClCompile Include="Sensor.cpp">
+      <Filter>Source Files\Sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="SensorOutput.cpp">
+      <Filter>Source Files\Sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="ControllerRule.cpp">
+      <Filter>Source Files\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="HotelRule.cpp">
+      <Filter>Source Files\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="HotelBuilder.cpp">
+      <Filter>Source Files\HotelBuilder</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

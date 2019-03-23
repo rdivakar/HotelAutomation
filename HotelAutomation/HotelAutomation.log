@@ -1,0 +1,302 @@
+2017-12-17 21:19:55	Initializing Power Controller.
+
+2017-12-17 21:19:55	Printing Initial Building state on output.
+
+2017-12-17 21:19:55	Starting Power Controller.
+
+2017-12-17 21:20:08	Received input [Movement in Floor 1, Sub corridor 2]
+
+2017-12-17 21:20:20	Processing sensor input Floor[1] Corridor[2] Movement[1]
+
+2017-12-17 21:20:23	Got floor number [Floor 1]
+
+2017-12-17 21:20:23	Powered on light equipment on corridor [Sub Corridor 2]
+
+2017-12-17 21:20:46	Initializing Power Controller.
+
+2017-12-17 21:20:46	Printing Initial Building state on output.
+
+2017-12-17 21:20:46	Starting Power Controller.
+
+2017-12-17 21:21:32	Received input [Movement in Floor 1, Sub corridor 2]
+
+2017-12-17 21:21:37	Processing sensor input Floor[1] Corridor[2] Movement[1]
+
+2017-12-17 21:21:37	Got floor number [Floor 1]
+
+2017-12-17 21:21:37	Powered on light equipment on corridor [Sub Corridor 2]
+
+2017-12-17 21:22:57	Initializing Power Controller.
+
+2017-12-17 21:47:07	Initializing Power Controller.
+
+2017-12-17 21:47:22	Building the Hotel [Sahaj].
+
+2017-12-17 21:47:22	Constructing Floor [Floor 1].
+
+2017-12-17 21:47:22	Adding Main Corridor [Main Corridor 1] to Floor [Floor 1].
+
+2017-12-17 21:47:22	Adding Equipment [AC  : OFF] to Corridor [Main Corridor 1] on Floor [Floor 1].
+
+2017-12-17 21:47:22	Adding Equipment [LIGHT 1 : OFF] to Corridor [Main Corridor 1] on Floor [Floor 1].
+
+2017-12-17 21:47:22	Completed Main Corridor [Main Corridor 1] to Floor [Floor 1].
+
+2017-12-17 21:47:22	Adding Sub Corridor [Sub Corridor 1] to Floor [Floor 1].
+
+2017-12-17 21:47:22	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 1] on Floor [Floor 1].
+
+2017-12-17 21:47:22	Adding Equipment [LIGHT 1 : OFF] to Corridor [Sub Corridor 1] on Floor [Floor 1].
+
+2017-12-17 21:47:22	Completed Main Corridor [Sub Corridor 1] to Floor [Floor 1].
+
+2017-12-17 21:47:22	Adding Sub Corridor [Sub Corridor 2] to Floor [Floor 1].
+
+2017-12-17 21:47:22	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 2] on Floor [Floor 1].
+
+2017-12-17 21:47:22	Adding Equipment [LIGHT 2 : OFF] to Corridor [Sub Corridor 2] on Floor [Floor 1].
+
+2017-12-17 21:47:22	Completed Main Corridor [Sub Corridor 2] to Floor [Floor 1].
+
+2017-12-17 21:47:22	Completed Floor [Floor 1].
+
+2017-12-17 21:47:22	Constructing Floor [Floor 2].
+
+2017-12-17 21:47:22	Adding Main Corridor [Main Corridor 1] to Floor [Floor 2].
+
+2017-12-17 21:47:22	Adding Equipment [AC  : OFF] to Corridor [Main Corridor 1] on Floor [Floor 2].
+
+2017-12-17 21:47:22	Adding Equipment [LIGHT 1 : OFF] to Corridor [Main Corridor 1] on Floor [Floor 2].
+
+2017-12-17 21:47:22	Completed Main Corridor [Main Corridor 1] to Floor [Floor 2].
+
+2017-12-17 21:47:22	Adding Sub Corridor [Sub Corridor 1] to Floor [Floor 2].
+
+2017-12-17 21:47:22	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 1] on Floor [Floor 2].
+
+2017-12-17 21:47:22	Adding Equipment [LIGHT 1 : OFF] to Corridor [Sub Corridor 1] on Floor [Floor 2].
+
+2017-12-17 21:47:22	Completed Main Corridor [Sub Corridor 1] to Floor [Floor 2].
+
+2017-12-17 21:47:22	Adding Sub Corridor [Sub Corridor 2] to Floor [Floor 2].
+
+2017-12-17 21:47:22	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 2] on Floor [Floor 2].
+
+2017-12-17 21:47:22	Adding Equipment [LIGHT 2 : OFF] to Corridor [Sub Corridor 2] on Floor [Floor 2].
+
+2017-12-17 21:47:22	Completed Main Corridor [Sub Corridor 2] to Floor [Floor 2].
+
+2017-12-17 21:47:22	Completed Floor [Floor 2].
+
+2017-12-17 21:47:22	Completed building the Hotel [Sahaj].
+
+2017-12-17 21:47:22	Printing Initial Building state on output.
+
+2017-12-17 21:47:22	Starting Power Controller.
+
+2017-12-17 21:47:22	Received input []
+
+2017-12-17 21:47:58	Received input [Movement in Floor 1, Sub corridor 2]
+
+2017-12-17 21:48:01	Processing sensor input Floor[1] Corridor[2] Movement[1]
+
+2017-12-17 21:48:01	Got floor number [Floor 1]
+
+2017-12-17 21:48:01	Powered on light equipment on corridor [Sub Corridor 2]
+
+2017-12-17 21:49:25	Power consumption stats: Build's consumption [75], max threashold [70]
+
+2017-12-17 21:50:12	Trying to power Sub corridor ACs
+
+2017-12-17 21:50:22	Powered off light equipment[AC  : ON] on corridor [Sub Corridor 1]
+
+2017-12-17 21:50:28	Power consumption stats: Build's consumption [65], max threashold [70]
+
+2017-12-17 21:51:04	Completed processing sensor input Floor[1] Corridor[2] Movement[1]
+
+2017-12-17 21:52:27	Received input [No movement in Floor 1, Sub corridor 2 for a minute]
+
+2017-12-17 21:52:37	Processing sensor input Floor[1] Corridor[2] Movement[2]
+
+2017-12-17 21:52:37	Got floor number [Floor 1]
+
+2017-12-17 21:52:37	Powered off light equipment on corridor [Sub Corridor 2]
+
+2017-12-17 21:52:37	Power consumption stats: Build's consumption [60], max threashold [70]
+
+2017-12-17 21:52:37	Powered on light equipment[AC  : OFF] on corridor [Sub Corridor 1]
+
+2017-12-17 21:52:37	Power consumption stats: Build's consumption [70], max threashold [70]
+
+2017-12-17 21:52:37	Completed processing sensor input Floor[1] Corridor[2] Movement[2]
+
+2017-12-19 20:57:14	Initializing Power Controller.
+
+2017-12-19 20:57:14	custOutStream = [0] custInStream = [0].
+
+2017-12-19 20:57:25	Building the Hotel [Sahaj].
+
+2017-12-19 20:57:25	Constructing Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Main Corridor [Main Corridor 1] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Main Corridor 1] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 1 : OFF] to Corridor [Main Corridor 1] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Completed Main Corridor [Main Corridor 1] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Main Corridor [Main Corridor 2] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Main Corridor 2] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 2 : OFF] to Corridor [Main Corridor 2] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Completed Main Corridor [Main Corridor 2] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Main Corridor [Main Corridor 3] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Main Corridor 3] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 3 : OFF] to Corridor [Main Corridor 3] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Completed Main Corridor [Main Corridor 3] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Sub Corridor [Sub Corridor 1] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 1] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 1 : OFF] to Corridor [Sub Corridor 1] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Completed Main Corridor [Sub Corridor 1] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Sub Corridor [Sub Corridor 2] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 2] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 2 : OFF] to Corridor [Sub Corridor 2] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Completed Main Corridor [Sub Corridor 2] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Sub Corridor [Sub Corridor 3] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 3] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 3 : OFF] to Corridor [Sub Corridor 3] on Floor [Floor 1].
+
+2017-12-19 20:57:25	Completed Main Corridor [Sub Corridor 3] to Floor [Floor 1].
+
+2017-12-19 20:57:25	Completed Floor [Floor 1].
+
+2017-12-19 20:57:25	Constructing Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Main Corridor [Main Corridor 1] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Main Corridor 1] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 1 : OFF] to Corridor [Main Corridor 1] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Completed Main Corridor [Main Corridor 1] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Main Corridor [Main Corridor 2] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Main Corridor 2] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 2 : OFF] to Corridor [Main Corridor 2] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Completed Main Corridor [Main Corridor 2] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Main Corridor [Main Corridor 3] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Main Corridor 3] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 3 : OFF] to Corridor [Main Corridor 3] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Completed Main Corridor [Main Corridor 3] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Sub Corridor [Sub Corridor 1] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 1] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 1 : OFF] to Corridor [Sub Corridor 1] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Completed Main Corridor [Sub Corridor 1] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Sub Corridor [Sub Corridor 2] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 2] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 2 : OFF] to Corridor [Sub Corridor 2] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Completed Main Corridor [Sub Corridor 2] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Sub Corridor [Sub Corridor 3] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 3] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 3 : OFF] to Corridor [Sub Corridor 3] on Floor [Floor 2].
+
+2017-12-19 20:57:25	Completed Main Corridor [Sub Corridor 3] to Floor [Floor 2].
+
+2017-12-19 20:57:25	Completed Floor [Floor 2].
+
+2017-12-19 20:57:25	Constructing Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Main Corridor [Main Corridor 1] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Main Corridor 1] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 1 : OFF] to Corridor [Main Corridor 1] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Completed Main Corridor [Main Corridor 1] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Main Corridor [Main Corridor 2] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Main Corridor 2] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 2 : OFF] to Corridor [Main Corridor 2] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Completed Main Corridor [Main Corridor 2] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Main Corridor [Main Corridor 3] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Main Corridor 3] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 3 : OFF] to Corridor [Main Corridor 3] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Completed Main Corridor [Main Corridor 3] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Sub Corridor [Sub Corridor 1] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 1] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 1 : OFF] to Corridor [Sub Corridor 1] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Completed Main Corridor [Sub Corridor 1] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Sub Corridor [Sub Corridor 2] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 2] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 2 : OFF] to Corridor [Sub Corridor 2] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Completed Main Corridor [Sub Corridor 2] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Sub Corridor [Sub Corridor 3] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [AC  : OFF] to Corridor [Sub Corridor 3] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Adding Equipment [LIGHT 3 : OFF] to Corridor [Sub Corridor 3] on Floor [Floor 3].
+
+2017-12-19 20:57:25	Completed Main Corridor [Sub Corridor 3] to Floor [Floor 3].
+
+2017-12-19 20:57:25	Completed Floor [Floor 3].
+
+2017-12-19 20:57:25	Completed building the Hotel [Sahaj].
+
+2017-12-19 20:57:25	Printing Initial Building state on output.
+
+2017-12-19 20:57:25	Starting Power Controller.
+
+2017-12-19 20:57:25	Received input []
+

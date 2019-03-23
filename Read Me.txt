@@ -1,0 +1,54 @@
+Built using C++ on Visual Studio 2017. We can open HotelAutomation.sln in any Visual studio. 
+
+
+I. Input Format for the Controller:
+
+	Type the text as shown below without the quotes. Refer "Sample Inputs.txt"
+
+	1. When movement is detected (Case sensitive, numericals can change accordinly)
+
+		"Movement in Floor 1, Sub corridor 2"
+
+	2. When no movement is detected (Case sensitive, numericals can change)
+
+		"No movement in Floor 1, Sub corridor 2 for a minute"
+
+II. Main Function is in HotelAutomation.cpp
+
+
+III. Object oriented design explanation:
+
+1. Building 				-> Base class for all buildings
+-> Hotel 					-> Derived class from Building class
+	-> Floor 				-> Member of each Building.
+		-> Corridor 		-> Member of each Floor, Abstract Base class
+		-> MainCorridor		-> Derived from Corridor class
+		-> SubCorridor		-> derived from Corridor class
+			-> Equipments	-> Member of each Corridor, Abstract class
+			-> AirCondition	-> Derived from Equipment
+			-> Light		-> derived from Equipment
+
+3. ControllerRule			-> Power management criteria that needs to be applied on the building, Abstract class
+	-> HotelRule			-> derived class from  ControllerRule, that defines how hotel's power needs to be managed.
+
+4. Sensor					-> Sensor class that talks to the Controller, in the way it understands.
+
+5. SensorOutput				-> Container class that defines the input that Controller understands.
+
+6. PowerController			-> Actual class that controls the power of building. Singleton class
+							-> It contains following objects.
+								Building 		->	Builing on which the controller is going to work.
+								ControllerRule 	-> 	That needs to be applied on the building.
+								Sensor 			-> 	Sensor that talk to the Controller.
+
+
+7. HotelBuilder				-> A builder class, that can be used to build any custon Hotel. 
+
+8. Config					-> An Utility class to help in talking to input/output streams.
+
+9. Logger					-> An Utility class to help in logging. Singleton class. 
+
+
+
+
+
